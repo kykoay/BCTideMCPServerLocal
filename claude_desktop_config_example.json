@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bc-tides": {
+      "command": "python",
+      "args": ["/absolute/path/to/bc-tide-mcp-server/main.py"]
+    }
+  }
+}
+

@@ -1,0 +1,12 @@
+[project]
+name = "bc-tide-mcp-server"
+version = "0.1.0"
+description = "BC Water Tides MCP Server - Access Canadian tide predictions via MCP"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=1.13.1",
+    "httpx>=0.25.0",
+    "pydantic>=2.0.0",
+]
+
