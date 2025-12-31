@@ -1,3 +1,5 @@
 mcp>=1.13.1
 httpx>=0.25.0
 pydantic>=2.0.0
+pytz>=2024.1
+matplotlib>=3.8.0
